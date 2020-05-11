@@ -22,7 +22,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../create-bootstrap-express/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
+            <state relative-caret-position="276">
               <caret line="50" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
@@ -160,12 +160,12 @@
       <workItem from="1589235083803" duration="31000" />
       <workItem from="1589235115340" duration="79000" />
       <workItem from="1589235199818" duration="87000" />
-      <workItem from="1589235288888" duration="1852000" />
+      <workItem from="1589235288888" duration="2120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2049000" />
+    <option name="totallyTimeSpent" value="2317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -217,7 +217,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../create-bootstrap-express/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
+        <state relative-caret-position="276">
           <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
